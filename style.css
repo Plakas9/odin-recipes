@@ -163,7 +163,7 @@ img{
     font-size: large;
 }
 
-.kebobpic{
+.kebobpic{ /* This class affects Caprese image, kebob image and curry image*/
     margin-top: 100px;
     padding: 15px;
     border: 2px 2px;
